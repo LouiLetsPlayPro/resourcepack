@@ -1,0 +1,14 @@
+{
+  "trigger": {
+    "sounds": [{
+      "name" : "event:trigger",
+      "stream" : true
+    }]
+  },
+  "start": {
+    "sounds": [{
+      "name" : "event:start",
+      "stream" : true
+    }]
+  }
+}
